@@ -5,7 +5,7 @@
     --grayish-blue: hsl(220, 15%, 55%);
     --dark-blue: hsl(218, 44%, 22%);
     --font-family: 'Outfit', sans-serif;
-    --border-radius: 15px;
+    --border-radius: 18px;
 }
 
 
@@ -42,7 +42,7 @@ a {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    border-radius: 5px;
+    border-radius: 8px;
 }
 
 .card__body {
