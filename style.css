@@ -32,7 +32,7 @@ a {
 
 .card {
     background-color: var(--white);
-    padding: 10px;
+    padding: 15px;
     border-radius: var(--border-radius);
     width: 330px;
 
@@ -47,13 +47,13 @@ a {
 
 .card__body {
     text-align: center;
-    padding: 15px 10px;
+    padding: 15px 10px 25px;
     display: grid;
     gap: 10px;
 }
 
 
 p {
-    font-size: 0.9rem;
+    font-size: 1rem;
     color: var(--grayish-blue);
 }
